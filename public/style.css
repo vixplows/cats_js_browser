@@ -10,3 +10,9 @@
 li.no-bullet {
   list-style-type: none;
 }
+
+li {
+  color: darkorange;
+  font-size: 24px;
+  font-family: arial;
+}
